@@ -1,14 +1,11 @@
 import Navbar from "./components/navbar/Navbar.tsx";
-import './index.css'
 
 function App() {
-
-
   return (
     <>
-        <Navbar />
+      <Navbar />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
